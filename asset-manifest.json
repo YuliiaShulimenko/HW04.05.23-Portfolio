@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.364b8df1.css",
+    "main.js": "/static/js/main.3474e869.js",
+    "static/media/Ellipse 1.png": "/static/media/Ellipse 1.7af4d709b1394e59dfb4.png",
+    "index.html": "/index.html",
+    "main.364b8df1.css.map": "/static/css/main.364b8df1.css.map",
+    "main.3474e869.js.map": "/static/js/main.3474e869.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.364b8df1.css",
+    "static/js/main.3474e869.js"
+  ]
+}
