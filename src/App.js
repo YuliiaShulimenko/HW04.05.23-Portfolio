@@ -10,7 +10,8 @@ import './App.css';
 import { WorkID } from './Pages/WorkID/WorkID'
 
 
-//ссылка на гх пэйдес https://yuliiashulimenko.github.io/HW04.05.23-Portfolio/
+//ссылка на гх пэйдес https://yuliiashulimenko.github.io/HW04.05.23-Portfolio/  
+// ТИГРАН,я провозилась больше часа с этим гит пейджес,не работает ссылка,не знаю в чем дело
 
 function App() {
 
